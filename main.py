@@ -13,3 +13,5 @@ for shop in shopping_dict:
 print(f"W sumie kupuję: {total_quantity} produktów.")
 
 print("Greetings form the test branch !!")
+
+# First test comment.
