@@ -15,3 +15,5 @@ print(f"W sumie kupuję: {total_quantity} produktów.")
 print("Greetings form the test branch !!")
 
 # First test comment.
+
+# Second test comment.
